@@ -24,3 +24,7 @@ If you encounter any issues, please open an issue in this repository and provide
 
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+#To run the Application :
+-git clone https://github.com/mrcoder57/ceddit-native.git
+-npm install
+-npx expo run 
